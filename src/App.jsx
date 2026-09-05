@@ -4,7 +4,7 @@ import Home from './components/Home'
 import About from './components/About'
 import Contact from './components/Contact'
 import Template from './components/Template'
-import Services from './components/services'
+import Services from './components/Services'
 import Welcome from './components/Welcome'
 import Error from './components/Error'
 
